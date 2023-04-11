@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "jobName": "Network Engineer",
+      "image": "https://i.ibb.co/GQRsYWb/accounts-1.png",
+      "totalJobsAvailable": 221
+    },
+    {
+      "id": 2,
+      "jobName": "Security Analyst",
+      "image": "https://i.ibb.co/xHvCPPh/business-1.png",
+      "totalJobsAvailable": 307
+    },
+    {
+      "id": 3,
+      "jobName": "Full-stack Developer",
+      "image": "https://i.ibb.co/zXpn0T4/social-media-1.png",
+      "totalJobsAvailable": 90
+    },
+    {
+      "id": 4,
+      "jobName": "Data Engineer",
+      "image": "https://i.ibb.co/MgPVYmV/chip-1.png",
+      "totalJobsAvailable": 55
+    }
+  ]
+  

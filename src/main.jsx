@@ -10,6 +10,7 @@ import Statistics from './components/Statistics/Statistics';
 import AppliedJobs from './components/AppliedJobs/AppliedJobs';
 import Blog from './components/Blog/Blog';
 import Home from './components/Home/Home';
+import JobCategory from './components/JobCategory/JobCategory';
 
 const router = createBrowserRouter([
   {

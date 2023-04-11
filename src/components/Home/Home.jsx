@@ -1,5 +1,6 @@
 import React from 'react';
 import './Home.css';
+import JobCategory from '../JobCategory/JobCategory';
 
 const Home = () => {
     return (
@@ -16,20 +17,20 @@ const Home = () => {
                 </div>
             </div> */}
 
-            <div class="grid grid-cols-12 gap-4">
-                <div class="col-span-12 md:col-span-6 grid content-center">
+            <div className="grid grid-cols-12 gap-4">
+                <div className="col-span-12 md:col-span-6 grid content-center">
                     <h1 className="font-bold text-5xl lg:text-7xl">One Step <br />Closer To Your <br />Dream Job</h1>
                     <p className="py-6">Explore thousands of job opportunities with all the information you need. Its your future. Come find it. Manage all your job application from start to finish.</p>
                     <div>
                         <button className="btn btn-primary">Get Started</button>
                     </div>
                 </div>
-                <div class="col-span-12 md:col-span-6">
+                <div className="col-span-12 md:col-span-6">
                     <img src="../../../utilities/All Images/hero_image.png" />
                 </div>
             </div>
 
-
+            <JobCategory />
 
         </div>
     );
