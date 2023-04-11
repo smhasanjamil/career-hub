@@ -40,6 +40,12 @@ const Footer = () => {
                         <a className="link link-hover pb-2">+1 777 - 978 - 5570</a>
                     </div>
                 </footer>
+                <hr className='border-slate-600' />
+
+                <div className='flex md:justify-between flex-col md:flex-row text-gray-400 my-5'>
+                    <div><p>@2023 CareerHub. All Rights Reserved</p></div>
+                    <div><p>Powered by CareerHub</p></div>
+                </div>
 
             </div>
         </div>
