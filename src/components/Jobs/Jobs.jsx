@@ -3,11 +3,11 @@ import SingleJob from '../SingleJob/SingleJob';
 
 const Jobs = () => {
     const [jobs, setJobs] = useState([]);
-    useEffect(()=>{
+    useEffect(() => {
         fetch('jobs.json')
-        .then(res => res.json())
-        .then(data => setJobs(data))
-    },[])
+            .then(res => res.json())
+            .then(data => setJobs(data))
+    }, [])
     return (
         <div>
             <div className='my-20 text-center'>
@@ -16,8 +16,11 @@ const Jobs = () => {
             </div>
             <div className='grid md:grid-cols-2 gap-8'>
                 {
-                    jobs.map(job=> <SingleJob job={job} key={job.id}></SingleJob>)
+                    jobs.map(job => <SingleJob job={job} key={job.id}></SingleJob>)
                 }
+            </div>
+            <div className='text-center my-10'>
+                <button className="btn btn-primary">See All Jobs</button>
             </div>
         </div>
     );
