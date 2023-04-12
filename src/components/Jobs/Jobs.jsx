@@ -4,7 +4,11 @@ import JobDetails from '../JobDetails/JobDetails';
 import { useLoaderData } from 'react-router-dom';
 import './Jobs.css'
 
-const Jobs = ({jobs}) => {
+const Jobs = ({ jobs }) => {
+    const [showAll, setShowAll] = useState(false);
+    const handleShowAll = () => {
+        setShowAll(true);
+    }
     // const [jobs, setJobs] = useState([]);
     // useEffect(() => {
     //     fetch('jobs.json')
@@ -31,11 +35,11 @@ const Jobs = ({jobs}) => {
             </div>
             <div className='grid md:grid-cols-2 gap-8'>
                 {
-                    jobs.map(job => <SingleJob job={job} key={job.id} jobDetailsHandler={jobDetailsHandler}></SingleJob>)
+                    jobs.slice(0, showAll ? 10 : 4).map(job => <SingleJob job={job} key={job.id} jobDetailsHandler={jobDetailsHandler}></SingleJob>)
                 }
             </div>
             <div className='text-center my-10'>
-                <button className="btn btn-primary see-all-btn">See All Jobs</button>
+                {!showAll && (<button onClick={handleShowAll} className="btn btn-primary see-all-btn">See All Jobs</button>)}
             </div>
         </div>
     );
