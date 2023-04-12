@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import SingleJob from '../SingleJob/SingleJob';
 import JobDetails from '../JobDetails/JobDetails';
 import { useLoaderData } from 'react-router-dom';
+import './Jobs.css'
 
 const Jobs = ({jobs}) => {
     // const [jobs, setJobs] = useState([]);
@@ -34,7 +35,7 @@ const Jobs = ({jobs}) => {
                 }
             </div>
             <div className='text-center my-10'>
-                <button className="btn btn-primary">See All Jobs</button>
+                <button className="btn btn-primary see-all-btn">See All Jobs</button>
             </div>
         </div>
     );

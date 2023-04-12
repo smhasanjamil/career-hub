@@ -30,7 +30,7 @@ const SingleJob = ({ job, jobDetailsHandler }) => {
                         </div>
                     </div>
                     <div className="card-actions">
-                        <button className="btn btn-primary"><Link to={`/job-details/${id}`} >View Details</Link></button> 
+                        <button className="btn btn-primary single-job-btn"><Link to={`/job-details/${id}`} >View Details</Link></button> 
 
                         {/* <button onClick={()=>jobDetailsHandler(job)} className="btn btn-primary">View Details</button> */}
                     </div>

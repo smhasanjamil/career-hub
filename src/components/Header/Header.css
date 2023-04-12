@@ -5,3 +5,12 @@
 border-radius: 10px;
 font-size: 24px;
 } */
+
+
+.header-btn{
+    
+        background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+        color: white;
+        border: none;
+   
+}

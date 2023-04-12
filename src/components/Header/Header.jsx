@@ -29,7 +29,7 @@ const Header = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                <Link className='btn' to="#">Star Applying</Link>
+                <Link className='btn header-btn' to="#">Star Applying</Link>
                     {/* <a className="btn">Star Applying</a> */}
                 </div>
             </div>
