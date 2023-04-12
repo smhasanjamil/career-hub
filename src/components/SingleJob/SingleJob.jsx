@@ -1,9 +1,10 @@
 import React from 'react';
 import './SingleJob.css'
+import { Link } from 'react-router-dom';
 
-const SingleJob = ({ job }) => {
+const SingleJob = ({ job, jobDetailsHandler }) => {
     const { id, companyLogo, companyName, jobTitle, jobType, location, salaryRange } = job;
-    console.log(job)
+    // console.log(job)
     return (
         <div>
 
@@ -29,7 +30,9 @@ const SingleJob = ({ job }) => {
                         </div>
                     </div>
                     <div className="card-actions">
-                        <button className="btn btn-primary">View Details</button>
+                        <button className="btn btn-primary"><Link to={`/job-details/${id}`} >View Details</Link></button> 
+
+                        {/* <button onClick={()=>jobDetailsHandler(job)} className="btn btn-primary">View Details</button> */}
                     </div>
                 </div>
             </div>
