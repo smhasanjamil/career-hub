@@ -31,7 +31,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="col-span-12 md:col-span-6">
-                    <img src="../../../utilities/All Images/hero_image.png" />
+                    <img src="https://i.ibb.co/6Xzm2hY/hero-image.png" />
                 </div>
             </div>
 

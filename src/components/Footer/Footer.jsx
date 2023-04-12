@@ -11,7 +11,7 @@ const Footer = () => {
                     <div className='flex flex-col'>
                         <span className='text-3xl text-white font-bold'>WorkSeeker</span>
                         <p className='py-5'>There are many variations of passages of Lorem Ipsum , but the majority have suffered alteration in some form.</p>
-                        <img className='h-15 w-full pb-5' src="../../utilities/Icons/group_9969.png" alt="Social Icon" />
+                        <img className='h-15 w-full pb-5' src="https://i.ibb.co/FJbzBQr/group-9969.png" alt="Social Icon" />
                     </div>
                     <div className='flex flex-col'>
                         <span className='text-lg text-white font-bold pb-2'>Company</span>
