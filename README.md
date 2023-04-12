@@ -21,5 +21,5 @@ In this project, I have developed a job searching website with the following fea
 
 ## Live Site Link
 
-Live Site => [Click Here](https://)
+Live Site => [Click Here](https://spontaneous-zabaione-737f7d.netlify.app/)
 
