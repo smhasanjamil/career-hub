@@ -1,0 +1,182 @@
+[
+    {
+        "id": "8729512034",
+        "companyLogo": "https://i.ibb.co/FwFtnKK/zoom.png",
+        "jobTitle": "Front-end Developer",
+        "companyName": "Zoom",
+        "jobType": [
+            "Remote",
+            "Full Time"
+        ],
+        "location": "Austin, USA",
+        "salaryRange": "$75,000 - $90,000",
+        "jobDescription": "Join our dynamic team of front-end developers and contribute to the creation of cutting-edge web applications. You will collaborate with cross-functional teams, translate design mockups into pixel-perfect user interfaces, and optimize website performance for exceptional user experiences.",
+        "jobResponsibility": "Key responsibilities include developing responsive web designs, implementing front-end code, collaborating with back-end developers and UI/UX designers, conducting code reviews, troubleshooting and debugging issues, and staying updated with latest trends and technologies in front-end development.",
+        "experience": "5-7 years of experience",
+        "phone": "321-987-4560",
+        "email": "jobs@jklwebsolutions.com",
+        "fullAddress": "3456 Cedar Street, Suite 789, Austin, TX 54321"
+    },
+    {
+        "id": "4567890123",
+        "companyLogo": "https://i.ibb.co/5n91HST/windows.png",
+        "jobTitle": "Back-end Developer",
+        "companyName": "Microsoft",
+        "jobType": [
+            "On-site",
+            "Contract"
+        ],
+        "location": "Seattle, USA",
+        "salaryRange": "$80,000 - $100,000",
+        "jobDescription": "We are seeking a talented front-end developer to create visually appealing and interactive user interfaces for our web applications. You will work closely with our design and development teams to implement responsive web designs, optimize website performance, and ensure seamless user experiences across multiple devices.",
+        "jobResponsibility": "Responsibilities include developing and maintaining front-end code, collaborating with back-end developers and stakeholders, conducting usability testing, troubleshooting and debugging issues, staying updated with emerging web technologies, and contributing to the improvement of UI/UX best practices.",
+        "experience": "6-8 years of experience",
+        "phone": "789-012-3456",
+        "email": "careers@mnosoftware.com",
+        "fullAddress": "8901 Pine Street, Suite 234, Seattle, WA 67890"
+    },
+    {
+        "id": "9876543210",
+        "companyLogo": "https://i.ibb.co/t3w2xXj/apple-black-logo.png",
+        "jobTitle": "Software Engineer",
+        "companyName": "Apple",
+        "jobType": [
+            "Remote",
+            "Full Time"
+        ],
+        "location": "Miami, USA",
+        "salaryRange": "$70,000 - $85,000",
+        "jobDescription": "As a front-end developer at PQR Digital, you will be responsible for developing responsive web interfaces that provide a seamless user experience. You will work closely with our design team, back-end developers, and stakeholders to create innovative solutions for our clients.",
+        "jobResponsibility": "Key responsibilities include developing user-facing features, implementing front-end code, optimizing web pages for performance, conducting code reviews, troubleshooting and debugging issues, staying updated with latest web technologies, and contributing to UI/UX best practices.",
+        "experience": "3-5 years of experience",
+        "phone": "234-567-8901",
+        "email": "jobs@pqrdigital.com",
+        "fullAddress": "12345 Palm Street, Suite 678, Miami, FL 34567"
+    },
+    {
+        "id": "5678901234",
+        "companyLogo": "https://i.ibb.co/YPy8Pgq/huawei.png",
+        "jobTitle": "Data Scientist",
+        "companyName": "Huawei",
+        "jobType": [
+            "Remote",
+            "Full Time"
+        ],
+        "location": "New York, USA",
+        "salaryRange": "$60,000 - $80,000",
+        "jobDescription": "Join our team as a front-end developer and contribute to the development of modern web applications. You will collaborate with cross-functional teams, implement responsive web designs, and ensure optimal website performance. Bring your creative ideas and technical skills to create user-friendly interfaces that meet business requirements.",
+        "jobResponsibility": "Responsibilities include developing user-facing features, optimizing web pages for performance, collaborating with back-end developers and UI/UX designers, troubleshooting and debugging issues, and staying updated with industry trends and best practices in front-end development.",
+        "experience": "3-5 years of experience",
+        "phone": "123-456-7890",
+        "email": "jobs@abccorp.com",
+        "fullAddress": "1234 Elm Street, Suite 567, New York, NY 12345"
+    },
+    {
+        "id": "1234567890",
+        "companyLogo": "https://i.ibb.co/hgnC1hL/intel.png",
+        "jobTitle": "Product Manager",
+        "companyName": "Intel",
+        "jobType": [
+            "On-site",
+            "Contract"
+        ],
+        "location": "San Francisco, USA",
+        "salaryRange": "$70,000 - $90,000",
+        "jobDescription": "We are looking for a skilled front-end developer to join our team and create visually appealing and interactive web interfaces. You will work closely with our design and development teams to implement responsive web designs, optimize website performance, and ensure cross-browser compatibility.",
+        "jobResponsibility": "Key responsibilities include developing and maintaining front-end code, collaborating with back-end developers and stakeholders, troubleshooting and debugging issues, conducting usability testing, and staying updated with emerging web technologies and best practices in front-end development.",
+        "experience": "4-6 years of experience",
+        "phone": "987-654-3210",
+        "email": "careers@xyzsolutions.com",
+        "fullAddress": "5678 Maple Avenue, Suite 890, San Francisco, CA 98765"
+    },
+    {
+        "id": "7890123456",
+        "companyLogo": "https://i.ibb.co/LhQXx2w/lg.png",
+        "jobTitle": "UX/UI Designer",
+        "companyName": "LG",
+        "jobType": [
+            "Remote",
+            "Part Time"
+        ],
+        "location": "Chicago, USA",
+        "salaryRange": "$50,000 - $65,000",
+        "jobDescription": "As a front-end developer at DEF Tech, you will play a key role in designing and implementing web interfaces for our products. You will work closely with our UI/UX designers, back-end developers, and stakeholders to create intuitive and visually appealing user experiences.",
+        "jobResponsibility": "Responsibilities include developing user-facing features, optimizing web pages for performance, conducting code reviews, collaborating with cross-functional teams, troubleshooting and debugging issues, and keeping up-to-date with industry trends and emerging technologies in front-end development.",
+        "experience": "2-4 years of experience",
+        "phone": "456-789-0123",
+        "email": "careers@deftech.com",
+        "fullAddress": "7890 Oak Street, Suite 123, Chicago, IL 67890"
+    },
+    {
+        "id": "3456789012",
+        "companyLogo": "https://i.ibb.co/xDQLhnY/nokia.png",
+        "jobTitle": "Full Stack Developer",
+        "companyName": "Nokia",
+        "jobType": [
+            "On-site",
+            "Full Time"
+        ],
+        "location": "San Francisco, USA",
+        "salaryRange": "$90,000 - $110,000",
+        "jobDescription": "Join our innovative tech company as a front-end developer and contribute to the development of cutting-edge web applications. You will work closely with our design and development teams to create user-friendly interfaces, optimize website performance, and implement best practices for front-end development.",
+        "jobResponsibility": "Responsibilities include developing responsive web designs, implementing front-end code, collaborating with back-end developers and UI/UX designers, conducting code reviews, troubleshooting and debugging issues, staying updated with latest trends and technologies in front-end development, and contributing to UI/UX best practices.",
+        "experience": "7-10 years of experience",
+        "phone": "456-789-0123",
+        "email": "careers@xyztech.com",
+        "fullAddress": "5678 Market Street, Suite 901, San Francisco, CA 12345"
+    },
+    {
+        "id": "9012345678",
+        "companyLogo": "https://i.ibb.co/n6T6GsT/samsung.png",
+        "jobTitle": "DevOps Engineer",
+        "companyName": "Samsung",
+        "jobType": [
+            "Remote",
+            "Contract"
+        ],
+        "location": "Chicago, USA",
+        "salaryRange": "$70,000 - $90,000",
+        "jobDescription": "We are looking for a skilled front-end developer to join our team and create engaging user interfaces for our web applications. You will work closely with our design and development teams to implement responsive web designs, optimize website performance, and ensure seamless user experiences across different devices.",
+        "jobResponsibility": "Key responsibilities include developing and maintaining front-end code, collaborating with back-end developers and stakeholders, conducting usability testing, troubleshooting and debugging issues, staying updated with emerging web technologies, and contributing to the improvement of UI/UX best practices.",
+        "experience": "4-6 years of experience",
+        "phone": "789-012-3456",
+        "email": "jobs@lmnsolutions.com",
+        "fullAddress": "6789 Oak Street, Suite 234, Chicago, IL 56789"
+    },
+    {
+        "id": "2345678901",
+        "companyLogo": "https://i.ibb.co/gDC99W3/sony.png",
+        "jobTitle": "Network Administrator",
+        "companyName": "Sony",
+        "jobType": [
+            "On-site",
+            "Full Time"
+        ],
+        "location": "Los Angeles, USA",
+        "salaryRange": "$80,000 - $100,000",
+        "jobDescription": "Join our dynamic team of front-end developers and contribute to the creation of visually appealing and interactive web applications. You will work closely with our design team, back-end developers, and stakeholders to develop responsive web designs, optimize website performance, and ensure seamless user experiences across multiple devices.",
+        "jobResponsibility": "Responsibilities include developing user-facing features, implementing front-end code, optimizing web pages for performance, conducting code reviews, troubleshooting and debugging issues, staying updated with latest web technologies, and contributing to UI/UX best practices.",
+        "experience": "5-8 years of experience",
+        "phone": "012-345-6789",
+        "email": "careers@qrswebsolutions.com",
+        "fullAddress": "7890 Maple Street, Suite 567, Los Angeles, CA 90123"
+    },
+    {
+        "id": "6789012345",
+        "companyLogo": "https://i.ibb.co/NSJcNwk/uber.png",
+        "jobTitle": "Cybersecurity Analyst",
+        "companyName": "Uber",
+        "jobType": [
+            "Remote",
+            "Full Time"
+        ],
+        "location": "Seattle, USA",
+        "salaryRange": "$75,000 - $95,000",
+        "jobDescription": "Join our innovative tech company as a front-end developer and contribute to the development of cutting-edge web applications. You will work closely with our design and development teams to create user-friendly interfaces, optimize website performance, and implement best practices for front-end development.",
+        "jobResponsibility": "Responsibilities include developing responsive web designs, implementing front-end code, collaborating with back-end developers and UI/UX designers, conducting code reviews, troubleshooting and debugging issues, staying updated with latest trends and technologies in front-end development, and contributing to UI/UX best practices.",
+        "experience": "3-5 years of experience",
+        "phone": "567-890-1234",
+        "email": "jobs@pqrinnovations.com",
+        "fullAddress": "9012 Cedar Street, Suite 345, Seattle, WA 67890"
+    }
+]

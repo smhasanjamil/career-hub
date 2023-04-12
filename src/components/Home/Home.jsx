@@ -1,6 +1,7 @@
 import React from 'react';
 import './Home.css';
 import JobCategory from '../JobCategory/JobCategory';
+import Jobs from '../Jobs/Jobs';
 
 const Home = () => {
     return (
@@ -31,6 +32,7 @@ const Home = () => {
             </div>
 
             <JobCategory />
+            <Jobs />
 
         </div>
     );

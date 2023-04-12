@@ -1,0 +1,9 @@
+.card figure{
+    justify-content: start;
+}
+.job-type{
+    border: 2px solid rgb(37 99 235);
+    border-radius: 5px;
+    padding: 5px;
+    color: rgb(37 99 235);
+}
