@@ -13,17 +13,25 @@ import Home from './components/Home/Home';
 import JobCategory from './components/JobCategory/JobCategory';
 import JobDetails from './components/JobDetails/JobDetails';
 import Jobs from './components/Jobs/Jobs';
+import ErrorPage from './components/ErrorPage';
+
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
+    errorElement: <ErrorPage/>,
     children: [
       {
         path: "/",
         element: <Home />,
+        // errorElement: <ErrorPage />,
+        // errorElement: ,
+        
         loader: () => fetch('/jobs.json'),
+        
       },
+    
       // {
       //   path: "/",
       //   element: <Jobs></Jobs>,
