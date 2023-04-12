@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
+import { addToDb } from '../../utilities/FakeDb';
 
 const JobDetails = () => {
 
@@ -26,7 +27,12 @@ const JobDetails = () => {
     }, [apiData, jobDetails]);
 
 
-    console.log(jobData);
+    // console.log(jobData);
+
+    const applyHandler = (jobs) => {
+        console.log(jobs.id)
+        addToDb(jobs.id);
+    }
     return (
         <div className='px-4 py-5 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8'>
             <div className='h-40 text-center text-3xl font-bold my-5'><h1>Job Details</h1></div>
@@ -74,7 +80,7 @@ const JobDetails = () => {
                         </div>
                     </div>
                     <div className="card-actions my-10">
-                        <button className="btn btn-primary btn-md sm:btn-md md:btn-lg lg:btn-lg w-full">Responsive</button>
+                        <button onClick={() => applyHandler(jobData)} className="btn btn-primary btn-md sm:btn-md md:btn-lg lg:btn-lg w-full">Responsive</button>
                     </div>
                 </div>
 
